@@ -1,0 +1,2 @@
+# SetWithFriendsBot
+Plays SetWithFriends automatically.
